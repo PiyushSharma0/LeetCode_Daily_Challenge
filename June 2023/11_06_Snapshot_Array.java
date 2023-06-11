@@ -2,6 +2,7 @@
 // Difficulty: Medium
 // Time Complexity: O(logN) for set, O(1) for snap, O(logN) for get
 // Space Complexity: O(N)
+import java.util.*;
 
 class SnapshotArray {
     private List<TreeMap<Integer, Integer>> snapshots;
