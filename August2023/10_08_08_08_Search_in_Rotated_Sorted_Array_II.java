@@ -41,16 +41,5 @@ class Solution {
         }
         
         return false; // Target element not found
-    }
-    
-    public static void main(String[] args) {
-        Solution solution = new Solution();
-        
-        int[] nums = {4, 5, 6, 6, 7, 0, 1, 2, 4, 4};
-        int target = 5;
-        
-        boolean result = solution.search(nums, target);
-        
-        System.out.println("Is target present in the array? " + result);
-    }
+    }  
 }
