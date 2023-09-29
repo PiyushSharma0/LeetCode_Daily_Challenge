@@ -1,6 +1,6 @@
 // Link: https://leetcode.com/problems/monotonic-array/
 // Difficulty: Easy
-// Time complexity: O(n)
+// Time complexity: O(n) where n is the length of the array
 // Space complexity: O(1)
 
 class Solution {
