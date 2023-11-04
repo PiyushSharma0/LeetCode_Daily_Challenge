@@ -3,6 +3,16 @@
 // Time complexity: O(n)
 // Space complexity: O(n)
 
+class TreeNode {
+    int val;
+    TreeNode left;
+    TreeNode right;
+
+    TreeNode(int x) {
+        val = x;
+    }
+}
+
 class Solution {
     private int matchingSubtreeCount = 0; // Initialize the count of subtrees with matching averages.
 
