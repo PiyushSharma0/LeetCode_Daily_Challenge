@@ -1,3 +1,8 @@
+// Link: https://leetcode.com/problems/meeting-rooms-iii/
+// Difficulty: Hard
+// Time Complexity: O(nlogn)
+// Space Complexity: O(n)
+
 import java.util.Arrays;
 import java.util.PriorityQueue;
 import java.util.Queue;
