@@ -1,3 +1,8 @@
+// Link: https://leetcode.com/problems/find-the-town-judge/description/
+// Difficulty: Easy
+// Time Complexity: O(N)
+// Space Complexity: O(N)
+
 class Solution {
     public int findJudge(int n, int[][] trust) {
         int[] inDegrees = new int[n + 1];
