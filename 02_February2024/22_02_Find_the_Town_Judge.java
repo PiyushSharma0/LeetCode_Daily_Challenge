@@ -1,6 +1,6 @@
 // Link: https://leetcode.com/problems/find-the-town-judge/description/
 // Difficulty: Easy
-// Time Complexity: O(N)
+// Time Complexity: O(N) where N is the number of trust relationships
 // Space Complexity: O(N)
 
 class Solution {
