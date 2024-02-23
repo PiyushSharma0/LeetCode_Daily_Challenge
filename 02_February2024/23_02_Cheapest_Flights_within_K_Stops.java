@@ -1,6 +1,6 @@
 // Link: https://leetcode.com/problems/cheapest-flights-within-k-stops/
 // Difficulty: Medium
-// Time Complexity: O(n^2)
+// Time Complexity: O(n^2) where n is the number of flights
 // Space Complexity: O(n)
 
 class Solution {
