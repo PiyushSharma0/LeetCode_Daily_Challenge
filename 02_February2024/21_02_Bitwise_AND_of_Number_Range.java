@@ -1,6 +1,6 @@
 // Link: https://leetcode.com/problems/bitwise-and-of-numbers-range/
 // Difficulty: Medium
-// Time Complexity: O(n)
+// Time Complexity: O(n) where n is the number of bits in the input
 // Space Complexity: O(1)
 
 class Solution {
